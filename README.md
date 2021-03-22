@@ -6,3 +6,6 @@ Session is used here.
 Note:-A session creates a file in a temporary directory on the server where registered session variables and their values are stored.
 **login.php**
 Login form is made here. Use of ajax is done forconnection of datasbase.(Note:-Ajax is a technique for creating fast and dynamic web pages.it is possible to update parts of web pages,without reloading the whole page.
+
+![image](https://user-images.githubusercontent.com/49555360/111976822-114ace80-8b28-11eb-992d-a0886ddc182c.png)
+
